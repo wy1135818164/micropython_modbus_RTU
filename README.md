@@ -1,0 +1,2 @@
+# micropython_modbus_RTU
+单文件实现micropython读取modbus信息
